@@ -1,0 +1,8 @@
+#Ignore IDE
+*.Identifier
+
+# Ignore node_modules
+node_modules
+
+#Ignore texto (arquivos)
+*.txt
