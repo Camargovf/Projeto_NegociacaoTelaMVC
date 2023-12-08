@@ -4,7 +4,7 @@ Este projeto une o paradigma orientado a objetos ao funcional para resolver prob
 
 ## Paradigma Orientado a Objetos e Funcional
 
-Este projeto combina o paradigma orientado a objetos e o paradigma funcional para resolver problemas. Isso permite que o código seja mais flexível, reutilizável e fácil de manter!
+Este projeto combina o paradigma orientado a objetos e o paradigma funcional para resolver problemas. Isso permite que o código seja mais flexível, reutilizável e fácil de manter.
 
 ## ECMASCRIPT 6
 
